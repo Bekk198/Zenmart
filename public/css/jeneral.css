@@ -1,0 +1,21 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  margin: 0;
+}
+.navbar_frame {
+  width: 100%;
+  height: ;
+}
+
+.navbar_frame {
+  background-color: blueviolet;
+}
