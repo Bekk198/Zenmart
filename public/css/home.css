@@ -635,3 +635,161 @@
 
   background-color: #e5edff;
 }
+/* ======================================== */
+
+.home_page .spec_new_frame {
+  margin-top: 90px;
+  position: relative;
+  width: 100%;
+  height: auto;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.spec_new_frame .container {
+  flex-direction: column;
+}
+
+.container .spec_category_bott {
+  position: relative;
+  margin-top: 35px;
+
+  width: 100%;
+  height: auto;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.spec_category_bott .spec_left_box {
+  position: relative;
+  padding: 30px;
+
+  width: 664px;
+  height: 368px;
+
+  display: flex;
+  flex-direction: row;
+
+  box-sizing: border-box;
+  border-radius: 6px;
+  background: rgb(243, 245, 246);
+}
+
+.spec_left_box .spec_left_type {
+  width: 161px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  box-sizing: border-box;
+}
+
+.spec_left_type span {
+  color: rgb(4, 30, 66);
+  font-family: Jost;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.spec_left_type p {
+  margin: 2px 0;
+  color: rgb(4, 30, 66);
+  font-family: Jost;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 38px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.spec_left_type a {
+  color: rgb(4, 30, 66);
+  font-family: Jost;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.spec_left_type div {
+  margin-top: 3px;
+  width: 32px;
+  height: 2px;
+  border-bottom: 2px solid rgb(4, 30, 66);
+}
+
+.spec_left_box img {
+  position: absolute;
+
+  right: 5%;
+}
+
+.spec_category_bott .spec_right_wrapper {
+  position: relative;
+  margin-left: 30px;
+  width: 620px;
+  height: 368px;
+
+  display: flex;
+  flex-direction: row;
+
+  flex-wrap: wrap;
+}
+
+.spec_wrapper_box:nth-child(odd) {
+  margin-right: 30px;
+}
+
+.spec_right_wrapper .spec_wrapper_box {
+  position: relative;
+  padding: 30px;
+  width: 293px;
+  height: 170px;
+
+  display: flex;
+  flex-direction: row;
+
+  border-radius: 6px;
+  box-sizing: border-box;
+  background: rgb(243, 245, 246);
+}
+
+.spec_wrapper_box .spec_wrapper-type {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.spec_wrapper-type span {
+  color: rgb(4, 30, 66);
+  font-family: Jost;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0%;
+}
+
+.spec_wrapper-type p {
+  color: rgb(98, 105, 116);
+  font-family: Jost;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0%;
+}
+
+.spec_wrapper_box img {
+  position: absolute;
+  bottom: 15px;
+
+  right: 30px;
+  bottom: 15px;
+}
