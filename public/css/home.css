@@ -25,7 +25,7 @@
 
 .category_top p {
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 28px;
   font-weight: 400;
   line-height: 40px;
@@ -37,7 +37,7 @@
 .container .category_top a {
   margin-left: 30px;
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
@@ -158,7 +158,7 @@
   box-shadow: 0px 5px 20px rgba(0, 83, 246, 0.1);
   border-radius: 6px;
 
-  font-family: "jost";
+  font-family: var(--font);
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -178,7 +178,7 @@
 
 .container .product_content_box .product_title {
   color: rgb(98, 105, 116);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 13px;
   font-weight: 400;
   line-height: 22px;
@@ -191,7 +191,7 @@
   margin-top: 7px;
   height: 56px;
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 16px;
   font-weight: 400;
   line-height: 28px;
@@ -215,7 +215,7 @@
 .container .review-box span {
   margin-left: 10px;
   color: rgb(98, 105, 116);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 14px;
   font-weight: 400;
   line-height: 22px;
@@ -270,7 +270,7 @@
   background: rgb(245, 195, 75);
 
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 13px;
   font-weight: 400;
   line-height: 22px;
@@ -283,7 +283,7 @@
   width: 428px;
   height: 152px;
 
-  font-family: "Jost";
+  font-family: var(--font);
   font-style: normal;
   font-weight: 400px;
   font-size: 60px;
@@ -295,7 +295,7 @@
 .header_frame .header_contant p {
   margin-top: 10px;
 
-  font-family: "Jost";
+  font-family: var(--font);
   font-style: normal;
   font-weight: 400px;
   font-size: 16px;
@@ -319,7 +319,7 @@
   background: rgb(255, 255, 255);
 
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
@@ -366,7 +366,7 @@
 
 .header_frame .box_left span {
   color: rgb(0, 83, 246);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
@@ -376,7 +376,7 @@
   margin: 10px 0px;
 
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 26px;
   font-weight: 400;
   line-height: 38px;
@@ -384,7 +384,7 @@
 
 .header_frame .box_left a {
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-style: normal;
   font-size: 15px;
   font-weight: 400;
@@ -452,7 +452,7 @@
 
 .shopping_frame .order_box span {
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 16px;
   font-weight: 400;
   line-height: 28px;
@@ -462,7 +462,7 @@
 
 .shopping_frame .order_box p {
   color: rgb(98, 105, 116);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
@@ -498,7 +498,7 @@
 
 .shop_category_frame .category_top p {
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 28px;
   font-weight: 400;
   line-height: 40px;
@@ -508,7 +508,7 @@
 
 .shop_category_frame .category_top a {
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
@@ -555,7 +555,7 @@
   margin-top: 15px;
 
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 16px;
   font-weight: 400;
   line-height: 28px;
@@ -640,7 +640,7 @@
   box-shadow: 0px 5px 20px rgba(0, 83, 246, 0.1);
   border-radius: 6px;
 
-  font-family: "jost";
+  font-family: var(--font);
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -660,7 +660,7 @@
 
 .selling_product_frame .product_content_box .product_title {
   color: rgb(98, 105, 116);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 13px;
   font-weight: 400;
   line-height: 22px;
@@ -673,7 +673,7 @@
   margin-top: 7px;
   height: 56px;
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 16px;
   font-weight: 400;
   line-height: 28px;
@@ -697,7 +697,7 @@
 .selling_product_frame .review-box span {
   margin-left: 10px;
   color: rgb(98, 105, 116);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 14px;
   font-weight: 400;
   line-height: 22px;
@@ -715,7 +715,7 @@
 
 .selling_product_frame .price_box strong {
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 18px;
   font-weight: 400;
   line-height: 26px;
@@ -726,7 +726,7 @@
 .selling_product_frame .price_box span {
   margin-left: 10px;
   color: rgb(98, 105, 116);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 14px;
   font-weight: 400;
   line-height: 22px;
@@ -744,7 +744,7 @@
   align-items: center;
 
   color: rgb(0, 83, 246);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 18px;
   font-weight: 400;
   line-height: 26px;
@@ -808,7 +808,7 @@
 
 .spec_left_type span {
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
@@ -819,7 +819,7 @@
 .spec_left_type p {
   margin: 2px 0;
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 26px;
   font-weight: 400;
   line-height: 38px;
@@ -829,7 +829,7 @@
 
 .spec_left_type a {
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
@@ -888,7 +888,7 @@
 
 .spec_wrapper-type span {
   color: rgb(4, 30, 66);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 16px;
   font-weight: 400;
   line-height: 28px;
@@ -897,7 +897,7 @@
 
 .spec_wrapper-type p {
   color: rgb(98, 105, 116);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 13px;
   font-weight: 400;
   line-height: 22px;
@@ -998,6 +998,7 @@
   justify-content: center;
 
   background-image: url("../images/icons/event_bg.png");
+  background-size: cover;
 }
 
 .event_frame .container {
@@ -1034,7 +1035,7 @@
 
 .timer_container p {
   color: rgb(255, 255, 255);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 28px;
   font-weight: 400;
   line-height: 40px;
@@ -1044,7 +1045,7 @@
 
 .timer_container strong {
   color: rgb(255, 255, 255);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 28px;
   font-weight: 400;
   line-height: 40px;
@@ -1054,7 +1055,7 @@
 
 .timer_container span {
   color: rgb(255, 255, 255);
-  font-family: Jost;
+  font-family: var(--font);
   font-size: 16px;
   font-weight: 400;
   line-height: 28px;
